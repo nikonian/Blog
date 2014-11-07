@@ -7,6 +7,7 @@ class AwesomeClass
 public:
 	AwesomeClass();
 	void DoSomethingAwesome();
+	void DoSomethingEvenMoreAwesome();
 	virtual ~AwesomeClass();
 };
 

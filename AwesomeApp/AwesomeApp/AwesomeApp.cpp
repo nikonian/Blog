@@ -9,6 +9,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	AwesomeClass ac;
 
 	ac.DoSomethingAwesome();
+	ac.DoSomethingEvenMoreAwesome();
 
 	cin.get();
 	return 0;
